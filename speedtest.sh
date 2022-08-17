@@ -183,6 +183,9 @@ runtest() {
 		# speed_test '4884' '福建福州' '联通'
 		# speed_test '31985' '重庆' '联通'
 		 speed_test '4863' '陕西西安' '联通'
+		 speed_test '45170' '无锡' '联通'
+		 speed_test '36646' '河南郑州' '联通'
+		 
 		#***
 		# speed_test '30154' '上海' '移动'
 		# speed_test '25637' '上海５Ｇ' '移动'
