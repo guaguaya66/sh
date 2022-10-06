@@ -9,6 +9,9 @@ bash <(curl -Lso- https://2life.top/speedtest.sh)
 
 bash <(curl -Lso- https://2life.top/tcp.sh)
 #BBR加速脚本
+
+bash <(curl -Lso- https://bench.im/hyperspeed)
+#http三网测速
 ```
 
 
